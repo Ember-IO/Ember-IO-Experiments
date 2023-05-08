@@ -1,0 +1,1 @@
+./fuzzware-experiments/02-comparison-with-state-of-the-art/uEmu/uEmu.GPSTracker/uEmu.GPSTracker.elf -m 576k -flash_size 48k -flash_base 0x80000 -sram_base 0x20070000 -machine embedded_fuzz -allow_flash_write -periph_base 0x20180000 -periph_size 128k -sram2_base 0xa000 -sram2_size 640k -machine embedded_fuzz

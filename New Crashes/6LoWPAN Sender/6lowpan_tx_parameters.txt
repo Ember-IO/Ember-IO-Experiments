@@ -1,0 +1,1 @@
+../fuzzware-experiments/02-comparison-with-state-of-the-art/uEmu/6LoWPAN_Sender/HAL.atmel_6lowpan_udp_tx.elf -m 256k -flash_size 72k -flash_base 0x0 -periph_base 0x805000 -periph_size 40k -machine embedded_fuzz
